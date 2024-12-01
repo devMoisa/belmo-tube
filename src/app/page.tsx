@@ -30,8 +30,9 @@ export default function Home() {
           "Instagram",
           "Facebook",
           "YouTube",
-          "Shorts",
+          "Linkedin",
           "Twitter",
+          "Shorts",
           "Reels",
         ]}
       />
