@@ -39,7 +39,7 @@ export default function Home() {
         Insira a <b>url</b> no campo abaixo e clique em &quot;Baixar&quot; para
         começar a baixar o vídeo AGORA!!!!
       </p>
-      <div className="w-1/2 mt-9 flex gap-2">
+      <div className="w-1/2 mt-9 flex gap-2  max-w-[700px]">
         <Input
           value={link}
           setValue={setLink}
