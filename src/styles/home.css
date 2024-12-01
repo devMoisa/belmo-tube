@@ -1,0 +1,4 @@
+.customBg {
+  background-image: radial-gradient(#80808080 1px, transparent 1px);
+  background-size: 20px 20px; /* Ajuste o tamanho das bolinhas */
+}
